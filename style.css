@@ -1,0 +1,28 @@
+h1{
+    text-align : center;
+    color : whitesmoke;
+    background-color : black;
+}
+.about{
+    text-align : right;
+    color : bisque;
+    border : solid;
+    border-color : wheat;
+}
+.chameleon{
+    border : groove;
+    border-color : wheat;
+    background-color: rgba(255, 235, 205, 0.616);
+}
+*{
+    background-color : rgb(205, 243, 255);
+}
+h2{
+    color : black;
+}
+.facts_ch{
+    color : black;
+    border-style: groove;
+    border-color: beige;
+    background-color: rgba(255, 235, 205, 0.616);
+}
